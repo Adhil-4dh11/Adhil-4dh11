@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adhil N. 
+- 👋 Hi, I’m @Adhil N N. 
 - 👀 I’m interested in Computer Science and Entrepreneurship.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Flutter Projects.
