@@ -13,6 +13,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adhil-4dh11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 <!---
 Adhil-4dh11/Adhil-4dh11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
