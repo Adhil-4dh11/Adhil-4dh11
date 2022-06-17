@@ -9,9 +9,15 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adhil-4dh11&theme=highcontrast)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhil-4dh11&count_private=true&show_icons=true&theme=radical)
+![Adhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhil-4dh11&count_private=true&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adhil-4dh11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adhil-4dh11&repo=Object_Detection_Flutter)](https://github.com/Adhil-4dh11/Object_Detection_Flutter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adhil-4dh11&repo=Zoom_Clone_Flutter)](https://github.com/Adhil-4dh11/Zoom_Clone_Flutter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adhil-4dh11&repo=Catalog_App_Flutter)](https://github.com/Adhil-4dh11/Catalog_App_Flutter)
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
