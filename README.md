@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with Flutter.
 - 👀 I’m interested in Computer Science and Entrepreneurship.
 - 💞️ I’m looking to collaborate on Flutter Projects.
-- 📫 You can reach me on LinkedIn www.linkedin.com/in/adhil-n-963x
+- 📫 You can reach me on LinkedIn www.linkedin.com/in/adhil-n-963x.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhil-4dh11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
