@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Adhil!
-- 🌍 I'm based in Kochi, Kerala.
-- 🌱 I’m currently learning Flutter.
-- 🔭 I’m currently working with Flutter.
-- 👀 I’m interested in Computer Science and Entrepreneurship.
+👋 Hi, My name is Adhil!
+================================
+
+Software Developer
+-----------------
+
+- 🌍 I'm based in Kochi, Kerala, India.
+- 🌱 I’m currently learning Flutter, Dart, Python, and Firebase.
+- 🔭 I’m currently working with Flutter, Dart, and Firebase.
+- 👀 I’m Passionate about Computer Science, and Entrepreneurship.
 - 💞️ I’m looking to collaborate on Flutter Projects.
 - 📫 You can reach me on LinkedIn www.linkedin.com/in/adhil-n-963x.
 
