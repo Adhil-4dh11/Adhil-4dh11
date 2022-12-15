@@ -1,7 +1,7 @@
 👋 Hi, My name is Adhil!
 ================================
 
-Software Engineer [Flutter]
+Software Engineer, Ethical Hacker
 -----------------
 
 - 🌍 I'm based in Kochi, Kerala, India.
