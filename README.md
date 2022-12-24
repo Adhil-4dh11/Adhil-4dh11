@@ -5,8 +5,8 @@ Software Engineer, Ethical Hacker
 -----------------
 
 - 🌍 I'm based in Kochi, Kerala, India.
-- 🌱 I’m currently learning Flutter, Dart, Python, and Firebase.
-- 🔭 I’m currently working with Flutter, Dart, and Firebase.
+- 🌱 I’m currently learning Flutter, Django, Python, and Dart.
+- 🔭 I’m currently working with Flutter, Django, Python and Dart.
 - 👀 I’m Passionate about Computer Science, and Entrepreneurship.
 - 💞️ I’m looking to collaborate on Flutter Projects.
 - 📫 You can reach me on LinkedIn www.linkedin.com/in/adhil-n-963x.
